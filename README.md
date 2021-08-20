@@ -5,9 +5,9 @@
 - 👾 Desafio Change The Game 2019
  <div>
   <a href="https://github.com/bebelicha">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&layout=compact&langs_count=7&theme=omni"/>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordunn&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&layout=compact&langs_count=7&theme=omni"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordunn&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
