@@ -1,5 +1,5 @@
 ## Olá! Me chamo Isabela Fernandes, mas podem me chamar de bebelicha!
-- 😄 Pronouns: She/Her - Ela/Dela
+- 😄 Pronomes: She/Her - Ela/Dela
  <div>
   <a href="https://github.com/bebelicha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
   <img align="center" alt="Bebelicha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bebelicha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bebelicha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bebelicha-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Bebelicha-yoda" src="https://media.discordapp.net/attachments/400647248704307202/878089962237603850/Webp.net-gifmaker.gif?width=531&height=531">
 </div>
     ##
  
