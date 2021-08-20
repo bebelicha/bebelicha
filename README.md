@@ -1,12 +1,13 @@
-## Olá! Me chamo Isabela Fernandes, mas podem me chamar de bebelicha!
+## Olá! Me chamo Isabela, mas podem me chamar de bebelicha!
 - 😄 Pronomes: She/Her - Ela/Dela
 - 👩🏻‍💻 Estudando: Desenvolvimento de jogos na Unity, Frontend e Data Science!
 - 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web e mobile pelo colégio Cotemig
 - 👾 Desafio Change The Game 2019
  <div>
   <a href="https://github.com/bebelicha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&layout=compact&langs_count=7&theme=omni"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordunn&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
