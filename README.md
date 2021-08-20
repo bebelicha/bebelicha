@@ -1,5 +1,7 @@
 ## Olá! Me chamo Isabela Fernandes, mas podem me chamar de bebelicha!
 - 😄 Pronomes: She/Her - Ela/Dela
+- 👩🏻‍💻 Estudando: Desenvolvimento de jogos na Unity, Frontend e Data Science!
+- 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web e mobile pelo colégio Cotemig
  <div>
   <a href="https://github.com/bebelicha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
