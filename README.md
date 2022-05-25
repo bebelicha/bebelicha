@@ -1,6 +1,6 @@
 ## Olá! Me chamo Isabela, mas podem me chamar de bebelicha!
 - 😄 Pronomes: She/Her - Ela/Dela
-- 👩🏻‍💻 Estudando: Desenvolvimento de jogos na Unity, Frontend e Data Science!
+- 👩🏻‍💻 Estudando: Desenvolvimento de jogos na Unity
 - 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web e mobile pelo colégio Cotemig
 - 👾 Desafio Change The Game 2019
  <div>
