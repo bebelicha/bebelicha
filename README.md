@@ -1,8 +1,8 @@
-## Olá! Me chamo Isabela, mas podem me chamar de bebelicha!
-- 😄 Pronomes: She/Her - Ela/Dela
-- 👩🏻‍💻 Estudando: Desenvolvimento de jogos na Unity
-- 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web e mobile pelo colégio Cotemig
-- 👾 Desafio Change The Game 2019
+## Hi!
+- 😄 Pronouns: She/Her - Ela/Dela
+- 👩🏻‍💻 Studying: Game development at Unity
+- 👩🏻‍🎓 Computer technician, focusing on web and mobile development at Colégio Cotemig
+- 👾 Brazilian Change The Game Challenge 2019
  <div>
   <a href="https://github.com/bebelicha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
