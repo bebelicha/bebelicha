@@ -1,4 +1,4 @@
-## Hi!
+## Hi, I'm Isabela!
 - 😄 Pronouns: She/Her - Ela/Dela
 - 👩🏻‍💻 Studying: Game development at Unity
 - 👩🏻‍🎓 Computer technician, focusing on web and mobile development at Colégio Cotemig
