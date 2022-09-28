@@ -1,8 +1,8 @@
-## Hi, I'm Isabela!
+## Hi, I'm Isabela Fernandes
 - 😄 Pronouns: She/Her - Ela/Dela;
-- 👩🏻‍💻 Studying: Game development at Unity;
+- 👩🏻‍💻 Undergraduate student in Information Systems at UFMG;
 - 👩🏻‍🎓 Computer technician, focusing on web and mobile development at Colégio Cotemig;
-- 👾 2019 Brazilian Change The Game Challenge.
+- 👾 Winner of the Brazilian edition of the Google Play Change the Game challenge in 2019, creator of the game "Save The World Like a Girl" https://play.google.com/store/apps/details?id=br.com.tapps.likeagirl&hl=pt&gl=US
  <div>
   <a href="https://github.com/bebelicha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
