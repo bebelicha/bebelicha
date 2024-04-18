@@ -1,7 +1,7 @@
 ![capona](https://github.com/bebelicha/bebelicha/assets/61983593/ea912750-5e61-474e-8923-889df6f93c7c)
 ## Hi, I'm Isabela Fernandes (or bebelicha)
 <p align="center">
-  <img width="360" height="360" src="https://img.itch.zone/aW1nLzE1ODEzMjU5LmdpZg==/original/5V7LYF.gif">
+  <img width="180" height="180" src="https://img.itch.zone/aW1nLzE1ODEzMjU5LmdpZg==/original/5V7LYF.gif">
 </p>
 <ul>
  <li>👩🏻‍💻 Undergraduate student in Information Systems at UFMG;</li>
