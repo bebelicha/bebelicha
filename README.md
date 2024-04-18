@@ -1,12 +1,19 @@
-![Oicon2](https://github.com/bebelicha/bebelicha/assets/61983593/4973b9e9-c824-45bf-92d0-8518c560871b)
+![capona](https://github.com/bebelicha/bebelicha/assets/61983593/ea912750-5e61-474e-8923-889df6f93c7c)
 ## Hi, I'm Isabela Fernandes (or bebelicha)
-- 👩🏻‍💻 Undergraduate student in Information Systems at UFMG;
-- 👩🏻‍🎓 Computer technician at Colégio Cotemig;
-- 👾 Winner of the Brazilian edition of the Google Play Change the Game challenge in 2019, creator of the game "Save The World Like a Girl" https://play.google.com/store/apps/details?id=br.com.tapps.likeagirl&hl=pt&gl=US
+<p align="center">
+  <img width="360" height="360" src="https://img.itch.zone/aW1nLzE1ODEzMjU5LmdpZg==/original/5V7LYF.gif">
+</p>
+<ul>
+ <li>👩🏻‍💻 Undergraduate student in Information Systems at UFMG;</li>
+ <li>👩🏻‍🎓 Computer technician at Colégio Cotemig;</li>
+ <li>👾 Winner of the Brazilian edition of the Google Play Change the Game challenge in 2019, creator of the game "Save The World Like a Girl" https://play.google.com/store/apps/details?id=br.com.tapps.likeagirl&hl=pt&gl=US</li>
+</ul>
+
+
  <div>
   <a href="https://github.com/bebelicha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&text_color=ffdee9&bg_color=fc5f96&title_color=f50a59&icon_color=fb9f70&border_color=fae2c0&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&text_color=ffdee9&bg_color=fc5f96&title_color=f50a59&icon_color=fb9f70&border_color=fae2c0&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&text_color=71123c&bg_color=fae2c0&title_color=f50a59&icon_color=fc5f96&border_color=fae2c0&include_all_commits=true&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&text_color=71123c&bg_color=fae2c0&title_color=f50a59&icon_color=fc5f960&border_color=fae2c0&layout=compact&langs_count=8&theme=dracula"/>
   
 </div>
 
