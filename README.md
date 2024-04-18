@@ -1,11 +1,12 @@
-## Hi, I'm Isabela Fernandes
+![Oicon2](https://github.com/bebelicha/bebelicha/assets/61983593/4973b9e9-c824-45bf-92d0-8518c560871b)
+## Hi, I'm Isabela Fernandes (or bebelicha)
 - 👩🏻‍💻 Undergraduate student in Information Systems at UFMG;
 - 👩🏻‍🎓 Computer technician at Colégio Cotemig;
 - 👾 Winner of the Brazilian edition of the Google Play Change the Game challenge in 2019, creator of the game "Save The World Like a Girl" https://play.google.com/store/apps/details?id=br.com.tapps.likeagirl&hl=pt&gl=US
  <div>
   <a href="https://github.com/bebelicha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&layout=compact&langs_count=7&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bebelicha&show_icons=true&text_color=ffdee9&bg_color=fc5f96&title_color=f50a59&icon_color=fb9f70&border_color=fae2c0&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebelicha&text_color=ffdee9&bg_color=fc5f96&title_color=f50a59&icon_color=fb9f70&border_color=fae2c0&layout=compact&langs_count=8&theme=dracula"/>
   
 </div>
 
@@ -15,11 +16,12 @@
   <img align="center" alt="Bebelicha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bebelicha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bebelicha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Bebelicha-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt="Bebelicha-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Bebelicha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Bebelicha-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
  <img align="center" alt="Bebelicha-AndroidStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
  <img align="center" alt="Bebelicha-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-  <img align="right" alt="Bebelicha-yoda" src="https://media.discordapp.net/attachments/400647248704307202/878090976546152448/Webp.net-gifmaker_3.gif">
 </div>
  
  ##
