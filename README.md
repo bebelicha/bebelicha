@@ -1,4 +1,5 @@
-![capona](https://github.com/bebelicha/bebelicha/assets/61983593/ea912750-5e61-474e-8923-889df6f93c7c)
+![capona](https://github.com/bebelicha/bebelicha/assets/61983593/0baef530-6aa5-4a36-bb45-a3814f399497)
+
 ## Hi, I'm Isabela Fernandes (or bebelicha)
 <p align="center">
   <img width="180" height="180" src="https://img.itch.zone/aW1nLzE1ODEzMjU5LmdpZg==/original/5V7LYF.gif">
