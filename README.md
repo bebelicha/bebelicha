@@ -6,7 +6,7 @@
 
 <p class="text-justify">👋 Hi there! I'm currently pursuing my undergraduate degree in Information Systems at UFMG</p>
 <p class="text-justify">🏆 In 2019, I participated in Google's Change The Game challenge, a game design challenge that inspired me to pursue the STEAM field and led to the publication of my game "Save The World Like a Girl" on Google Play.</p>
-<p class="text-justify">🚀 Interests: Software Engeneering, Automotive connectivity, Federated learning, Game design/development, Competitive programming <br></p>
+<p class="text-justify">🚀 Software Engeneering, Automotive Connectivity, Federated Learning, Game Design/Development,  AR and Competitive Programming​. <br></p>
 <p align="center">˗ˏˋ 🍓 ˎˊ˗</p>
 
 
