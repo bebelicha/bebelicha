@@ -2,13 +2,11 @@
 
 ## Hi, I'm Isabela Fernandes (or bebelicha)
 <p align="center">
-  <img width="180" height="180" src="https://img.itch.zone/aW1nLzE1ODEzMjU5LmdpZg==/original/5V7LYF.gif">
+  <img width="180" height="180" src="https://github.com/user-attachments/assets/4671ff72-6502-4ca7-b372-9f9c24c1d4f8">
+
 <p class="text-justify">👋 Hi there! I'm currently pursuing my undergraduate degree in Information Systems at UFMG</p>
-<p class="text-justify">🏆 In 2019, I participated in Google Brazil's Change The Game challenge, a game design competition that inspired me to pursue the STEAM field and led to the publication of my game "Save The World Like a Girl" on Google Play.</p>
-<p class="text-justify">💻 I have experience across a variety of programming languages including C, C++, C#, JavaScript, and Python. <br></p>
-<p class="text-justify">🎨 On the artistic and game development side, I've extensively utilized Unity, participating in game jams, creating animations and working on geospatial augmented reality projects. I've also used Blender for 3D modeling and shaders. Furthermore, I've explored other game engines such as Unreal and Godot, as well as artistic styles including pixel art.</p>
-<p class="text-justify">🚀 Additionally, I'm deeply interested in exploring areas such as Tech Art, Software Engineering, Human-Computer Interaction, UX, AI, Narrative Design, and Competitive Programming. <br></p>
-<p class="text-justify">🎮 I believe that games can positively transform players' lives, and participating in all of this makes me happy :D. Be welcome &lt;3<em></em></p>
+<p class="text-justify">🏆 In 2019, I participated in Google's Change The Game challenge, a game design challenge that inspired me to pursue the STEAM field and led to the publication of my game "Save The World Like a Girl" on Google Play.</p>
+<p class="text-justify">🚀 Interests: Software Engeneering, Automotive connectivity, Federated learning, Game design/development, Competitive programming <br></p>
 <p align="center">˗ˏˋ 🍓 ˎˊ˗</p>
 
 
